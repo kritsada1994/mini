@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{71D74578-BAAD-40E0-B3C5-27A147B52487}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ministore.My.MyApplication</StartupObject>
+    <RootNamespace>ministore</RootNamespace>
+    <AssemblyName>ministore</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ministore.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ministore.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Frm_break.Designer.vb">
+      <DependentUpon>Frm_break.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_break.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Order.Designer.vb">
+      <DependentUpon>Frm_Order.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Order.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Pstork.Designer.vb">
+      <DependentUpon>Frm_Pstork.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Pstork.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Sale.Designer.vb">
+      <DependentUpon>Frm_Sale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Sale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_search.Designer.vb">
+      <DependentUpon>Frm_search.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_search.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Stork.Designer.vb">
+      <DependentUpon>Frm_Stork.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Stork.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Main.Designer.vb">
+      <DependentUpon>Frm_Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_staff.Designer.vb">
+      <DependentUpon>Frm_staff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_title.Designer.vb">
+      <DependentUpon>Frm_title.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_title.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_type.Designer.vb">
+      <DependentUpon>Frm_type.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_type.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_unit.Designer.vb">
+      <DependentUpon>Frm_unit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_unit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ministoreDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ministoreDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Frm_Product.Designer.vb">
+      <DependentUpon>Frm_Product.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Product.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Frm_break.resx">
+      <DependentUpon>Frm_break.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Order.resx">
+      <DependentUpon>Frm_Order.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Product.resx">
+      <DependentUpon>Frm_Product.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Pstork.resx">
+      <DependentUpon>Frm_Pstork.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Sale.resx">
+      <DependentUpon>Frm_Sale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_search.resx">
+      <DependentUpon>Frm_search.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Stork.resx">
+      <DependentUpon>Frm_Stork.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Main.resx">
+      <DependentUpon>Frm_Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_staff.resx">
+      <DependentUpon>Frm_staff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_title.resx">
+      <DependentUpon>Frm_title.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_type.resx">
+      <DependentUpon>Frm_type.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_unit.resx">
+      <DependentUpon>Frm_unit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ministoreDataSet.xsc">
+      <DependentUpon>ministoreDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ministoreDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ministoreDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ministoreDataSet.xss">
+      <DependentUpon>ministoreDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Staff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44444444.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4214_16102611241250.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-Dialog-Shutdown-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

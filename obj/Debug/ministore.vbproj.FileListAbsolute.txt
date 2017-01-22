@@ -1,0 +1,111 @@
+D:\ministore End\ministore\ministore\bin\Debug\ministore.exe.config
+D:\ministore End\ministore\ministore\bin\Debug\ministore.exe
+D:\ministore End\ministore\ministore\bin\Debug\ministore.pdb
+D:\ministore End\ministore\ministore\bin\Debug\ministore.xml
+D:\ministore End\ministore\ministore\obj\Debug\ministore.vbprojResolveAssemblyReference.cache
+D:\ministore End\ministore\ministore\obj\Debug\ministore.Resources.resources
+D:\ministore End\ministore\ministore\obj\Debug\ministore.vbproj.GenerateResource.Cache
+D:\ministore End\ministore\ministore\obj\Debug\ministore.exe
+D:\ministore End\ministore\ministore\obj\Debug\ministore.xml
+D:\ministore End\ministore\ministore\obj\Debug\ministore.pdb
+D:\ministore End\ministore\ministore\obj\Debug\ministore.Frm_Main.resources
+D:\ministore End\ministore\ministore\obj\Debug\ministore.Frm_staff.resources
+G:\ministore\ministore\bin\Debug\ministore.exe.config
+G:\ministore\ministore\obj\Debug\ministore.exe
+G:\ministore\ministore\obj\Debug\ministore.xml
+G:\ministore\ministore\obj\Debug\ministore.pdb
+G:\ministore\ministore\bin\Debug\ministore.exe
+G:\ministore\ministore\bin\Debug\ministore.pdb
+G:\ministore\ministore\bin\Debug\ministore.xml
+G:\ministore\ministore\obj\Debug\ministore.vbprojResolveAssemblyReference.cache
+G:\ministore\ministore\obj\Debug\ministore.Frm_Main.resources
+G:\ministore\ministore\obj\Debug\ministore.Frm_staff.resources
+G:\ministore\ministore\obj\Debug\ministore.Resources.resources
+G:\ministore\ministore\obj\Debug\ministore.vbproj.GenerateResource.Cache
+D:\ministore End\ministore\ministore\obj\Debug\ministore.Frm_Order.resources
+D:\ministore End\ministore\ministore\obj\Debug\ministore.Frm_Stork.resources
+D:\ministore End\ministore\ministore\obj\Debug\ministore.Frm_Sale.resources
+C:\Users\PeemNing\Desktop\ministore\ministore\bin\Debug\ministore.exe.config
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.exe
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.xml
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.pdb
+C:\Users\PeemNing\Desktop\ministore\ministore\bin\Debug\ministore.exe
+C:\Users\PeemNing\Desktop\ministore\ministore\bin\Debug\ministore.pdb
+C:\Users\PeemNing\Desktop\ministore\ministore\bin\Debug\ministore.xml
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.vbprojResolveAssemblyReference.cache
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Sale.resources
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Stork.resources
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Order.resources
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Main.resources
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.Frm_staff.resources
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.Resources.resources
+C:\Users\PeemNing\Desktop\ministore\ministore\obj\Debug\ministore.vbproj.GenerateResource.Cache
+C:\Users\fah\Desktop\ministore\ministore\bin\Debug\ministore.exe.config
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.exe
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.xml
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.pdb
+C:\Users\fah\Desktop\ministore\ministore\bin\Debug\ministore.exe
+C:\Users\fah\Desktop\ministore\ministore\bin\Debug\ministore.pdb
+C:\Users\fah\Desktop\ministore\ministore\bin\Debug\ministore.xml
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.vbprojResolveAssemblyReference.cache
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Sale.resources
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Stork.resources
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Order.resources
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Main.resources
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.Frm_staff.resources
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.Resources.resources
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.vbproj.GenerateResource.Cache
+C:\Users\suttirak\Desktop\ministore\ministore\bin\Debug\ministore.exe.config
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.exe
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.xml
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.pdb
+C:\Users\suttirak\Desktop\ministore\ministore\bin\Debug\ministore.exe
+C:\Users\suttirak\Desktop\ministore\ministore\bin\Debug\ministore.pdb
+C:\Users\suttirak\Desktop\ministore\ministore\bin\Debug\ministore.xml
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.vbprojResolveAssemblyReference.cache
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Sale.resources
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Stork.resources
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Order.resources
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.Frm_Main.resources
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.Frm_staff.resources
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.Resources.resources
+C:\Users\suttirak\Desktop\ministore\ministore\obj\Debug\ministore.vbproj.GenerateResource.Cache
+C:\Users\fah\Desktop\ministore\ministore\obj\Debug\ministore.Frm_title.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\bin\Debug\ministore.exe.config
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.exe
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.xml
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.pdb
+C:\Users\fah\Desktop\ministore\ministore\ministore\bin\Debug\ministore.exe
+C:\Users\fah\Desktop\ministore\ministore\ministore\bin\Debug\ministore.pdb
+C:\Users\fah\Desktop\ministore\ministore\ministore\bin\Debug\ministore.xml
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.vbprojResolveAssemblyReference.cache
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_Sale.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_Stork.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_Main.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_staff.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_title.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Resources.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.vbproj.GenerateResource.Cache
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_Order.resources
+C:\Users\fah\Desktop\ministores\ministore\ministore\bin\Debug\ministore.exe.config
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.exe
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.xml
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.pdb
+C:\Users\fah\Desktop\ministores\ministore\ministore\bin\Debug\ministore.exe
+C:\Users\fah\Desktop\ministores\ministore\ministore\bin\Debug\ministore.pdb
+C:\Users\fah\Desktop\ministores\ministore\ministore\bin\Debug\ministore.xml
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.vbprojResolveAssemblyReference.cache
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.Frm_Order.resources
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.Frm_Sale.resources
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.Frm_Stork.resources
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.Frm_Main.resources
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.Frm_staff.resources
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.Frm_title.resources
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.Resources.resources
+C:\Users\fah\Desktop\ministores\ministore\ministore\obj\Debug\ministore.vbproj.GenerateResource.Cache
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_Product.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_unit.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_type.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_break.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_search.resources
+C:\Users\fah\Desktop\ministore\ministore\ministore\obj\Debug\ministore.Frm_Pstork.resources
